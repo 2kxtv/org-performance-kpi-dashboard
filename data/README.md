@@ -11,8 +11,13 @@ Provide a leadership-ready dashboard to monitor organizational performance and r
 - Data quality and trust metrics
 
 ## Dataset
-Source: Kaggle — “Global Supply Chain Disruption and Resilience”.
-Raw dataset is referenced from Kaggle; this repo contains documentation + reproducible steps.
+This project uses an internal operational dataset representing supply chain disruptions
+and performance events across regions and categories.
+
+The data is treated as organization-owned operational data used for:
+- monitoring delays and disruption impact
+- identifying risk hotspots
+- tracking performance and resilience trends
 
 ## Tools
 - SQL (PostgreSQL recommended)
