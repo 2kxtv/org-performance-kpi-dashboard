@@ -1,0 +1,25 @@
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Editor / IDE =====
+.vscode/
+.idea/
+
+# ===== Python (if added later) =====
+__pycache__/
+*.pyc
+.env
+
+# ===== Power BI =====
+*.pbix.lock
+*.pbit.lock
+
+# ===== Data files =====
+# Ignore large raw datasets (keep samples only)
+data/raw/
+data/full/
+*.zip
+
+# ===== Logs =====
+*.log
