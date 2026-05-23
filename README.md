@@ -1,24 +1,16 @@
 # Organizational Performance & KPI Insights Dashboard
 
 An end-to-end analytics project that simulates an in-house Data Analyst (Insights) workflow:
-SQL extraction → clean modeling → KPI definitions → Power BI dashboard → executive insights.
+SQL + Power BI dashboard for organizational KPI monitoring, performance drivers, bottleneck analysis, and data quality checks.
 
 ## Dashboard Preview
 
-### Executive Overview
-![Executive Overview](powerbi/01_executive_overview.png)
-
-### Performance Drivers
-![Performance Drivers](powerbi/02_performance_drivers.png)
-
+| Executive Overview | Performance Drivers |
+|---|---|
 | <img src="powerbi/screenshots/01_executive_overview.png" width="450"> | <img src="powerbi/screenshots/02_performance_drivers.png" width="450"> |
 
-### Bottlenecks & Root Cause
-![Bottlenecks](powerbi/03_bottlenecks_root_cause.png)
-
-### Data Quality & Trust
-![Data Quality](powerbi/04_data_quality_trust.png)
-
+| Bottlenecks & Root Cause | Data Quality & Trust |
+|---|---|
 | <img src="powerbi/screenshots/03_bottlenecks_root_cause.png" width="450"> | <img src="powerbi/screenshots/04_data_quality_trust.png" width="450"> |
 
 ## Goal
