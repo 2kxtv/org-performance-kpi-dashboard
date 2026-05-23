@@ -6,16 +6,16 @@ SQL extraction → clean modeling → KPI definitions → Power BI dashboard →
 ## Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](powerbi/screenshots/01_executive_overview.png)
+![Executive Overview](powerbi/01_executive_overview.png)
 
 ### Performance Drivers
-![Performance Drivers](powerbi/screenshots/02_performance_drivers.png)
+![Performance Drivers](powerbi/02_performance_drivers.png)
 
 ### Bottlenecks & Root Cause
-![Bottlenecks](powerbi/screenshots/03_bottlenecks_root_cause.png)
+![Bottlenecks](powerbi/03_bottlenecks_root_cause.png)
 
 ### Data Quality & Trust
-![Data Quality](powerbi/screenshots/04_data_quality_trust.png)
+![Data Quality](powerbi/04_data_quality_trust.png)
 
 ## Goal
 Provide a leadership-ready dashboard to monitor organizational performance and risk:
