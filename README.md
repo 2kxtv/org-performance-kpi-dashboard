@@ -11,11 +11,15 @@ SQL extraction → clean modeling → KPI definitions → Power BI dashboard →
 ### Performance Drivers
 ![Performance Drivers](powerbi/02_performance_drivers.png)
 
+| <img src="powerbi/screenshots/01_executive_overview.png" width="450"> | <img src="powerbi/screenshots/02_performance_drivers.png" width="450"> |
+
 ### Bottlenecks & Root Cause
 ![Bottlenecks](powerbi/03_bottlenecks_root_cause.png)
 
 ### Data Quality & Trust
 ![Data Quality](powerbi/04_data_quality_trust.png)
+
+| <img src="powerbi/screenshots/03_bottlenecks_root_cause.png" width="450"> | <img src="powerbi/screenshots/04_data_quality_trust.png" width="450"> |
 
 ## Goal
 Provide a leadership-ready dashboard to monitor organizational performance and risk:
