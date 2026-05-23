@@ -3,6 +3,20 @@
 An end-to-end analytics project that simulates an in-house Data Analyst (Insights) workflow:
 SQL extraction → clean modeling → KPI definitions → Power BI dashboard → executive insights.
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](powerbi/screenshots/01_executive_overview.png)
+
+### Performance Drivers
+![Performance Drivers](powerbi/screenshots/02_performance_drivers.png)
+
+### Bottlenecks & Root Cause
+![Bottlenecks](powerbi/screenshots/03_bottlenecks_root_cause.png)
+
+### Data Quality & Trust
+![Data Quality](powerbi/screenshots/04_data_quality_trust.png)
+
 ## Goal
 Provide a leadership-ready dashboard to monitor organizational performance and risk:
 - Operational volume and trends
