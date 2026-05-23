@@ -1,0 +1,256 @@
+﻿Sum of total_shipping_cost,Sum of total_orders,route_type,transportation_mode,product_category,disruption_event,Sum of avg_risk_score,Sum of on_time_rate,Sum of avg_delay_days,risk_band
+383552.56,7,Atlantic,Air,Pharmaceuticals,None,4.111,1,0,High
+602130.65,12,Atlantic,Air,Pharmaceuticals,None,1.579,1,0,Low
+167203.8,4,Atlantic,Air,Pharmaceuticals,None,2.752,1,0,Medium
+27048.76,1,Atlantic,Air,Pharmaceuticals,Port Congestion,3.963,0,1,High
+210539.08,3,Atlantic,Air,Pharmaceuticals,Port Congestion,1.461,0,2.67,Low
+119115.63,2,Atlantic,Air,Pharmaceuticals,Port Congestion,2.913,0,1.5,Medium
+274600.59,7,Atlantic,Air,Semiconductors,None,3.789,0.8571,0.14,High
+304856.91,8,Atlantic,Air,Semiconductors,None,1.512,1,0,Low
+224970.79,6,Atlantic,Air,Semiconductors,None,2.579,1,0,Medium
+87478.46,1,Atlantic,Air,Semiconductors,Port Congestion,3.437,0,1,High
+190783.83,4,Atlantic,Air,Semiconductors,Port Congestion,1.672,0,2.75,Low
+145955.04,2,Atlantic,Air,Semiconductors,Port Congestion,2.507,0,3,Medium
+77488.67,19,Atlantic,Sea,Auto Parts,None,3.87,1,0,High
+32595.39,12,Atlantic,Sea,Auto Parts,None,1.538,1,0,Low
+70784.92,17,Atlantic,Sea,Auto Parts,None,2.667,1,0,Medium
+11292.95,3,Atlantic,Sea,Auto Parts,Port Congestion,3.813,0,4,High
+8554.08,2,Atlantic,Sea,Auto Parts,Port Congestion,1.223,0,2.5,Low
+3789.09,1,Atlantic,Sea,Auto Parts,Port Congestion,2.145,0,5,Medium
+35346.36,8,Atlantic,Sea,Consumer Electronics,None,3.929,1,0,High
+41279.41,12,Atlantic,Sea,Consumer Electronics,None,1.48,1,0,Low
+52397.13,15,Atlantic,Sea,Consumer Electronics,None,2.699,1,0,Medium
+3996.28,1,Atlantic,Sea,Consumer Electronics,Port Congestion,3.786,0,1,High
+1317.62,1,Atlantic,Sea,Consumer Electronics,Port Congestion,2.952,0,5,Medium
+78798.84,17,Atlantic,Sea,Perishable Foods,None,3.856,1,0,High
+32955.9,10,Atlantic,Sea,Perishable Foods,None,1.508,1,0,Low
+51963.92,14,Atlantic,Sea,Perishable Foods,None,2.637,1,0,Medium
+9596.81,2,Atlantic,Sea,Perishable Foods,Port Congestion,4.537,0,2.5,High
+11080.34,2,Atlantic,Sea,Perishable Foods,Port Congestion,1.747,0,2.5,Low
+10292.87,4,Atlantic,Sea,Perishable Foods,Port Congestion,2.542,0,2.5,Medium
+7852.32,1,Atlantic,Sea,Pharmaceuticals,None,4.056,1,0,High
+18389.88,5,Atlantic,Sea,Pharmaceuticals,None,1.257,1,0,Low
+19122.13,6,Atlantic,Sea,Pharmaceuticals,None,2.677,1,0,Medium
+12325.2,1,Atlantic,Sea,Pharmaceuticals,Port Congestion,2.955,0,3,Medium
+31294,7,Atlantic,Sea,Raw Materials,None,3.765,1,0,High
+62754.29,19,Atlantic,Sea,Raw Materials,None,1.592,1,0,Low
+66935.84,20,Atlantic,Sea,Raw Materials,None,2.715,1,0,Medium
+6397.28,1,Atlantic,Sea,Raw Materials,Port Congestion,3.529,0,3,High
+6191.46,1,Atlantic,Sea,Raw Materials,Port Congestion,1.49,0,1,Low
+2866.89,1,Atlantic,Sea,Raw Materials,Port Congestion,3.094,0,5,Medium
+22997.06,5,Atlantic,Sea,Semiconductors,None,3.939,1,0,High
+15043.45,6,Atlantic,Sea,Semiconductors,None,1.289,1,0,Low
+31211.99,7,Atlantic,Sea,Semiconductors,None,2.477,1,0,Medium
+11669.18,2,Atlantic,Sea,Semiconductors,Port Congestion,3.723,0,4,High
+9747.05,1,Atlantic,Sea,Semiconductors,Port Congestion,3.195,0,4,Medium
+57882.1,13,Atlantic,Sea,Textiles,None,3.809,1,0,High
+48825.64,14,Atlantic,Sea,Textiles,None,1.303,1,0,Low
+33017.18,8,Atlantic,Sea,Textiles,None,2.779,1,0,Medium
+9649.48,2,Atlantic,Sea,Textiles,Port Congestion,3.492,0,3,High
+16712.23,5,Atlantic,Sea,Textiles,Port Congestion,1.246,0,3.6,Low
+7182.45,1,Atlantic,Sea,Textiles,Port Congestion,2.446,0,5,Medium
+558374.51,10,Commodity,Air,Pharmaceuticals,None,3.973,1,0,High
+352513.86,9,Commodity,Air,Pharmaceuticals,None,1.482,1,0,Low
+432279.55,10,Commodity,Air,Pharmaceuticals,None,2.573,1,0,Medium
+165285.25,1,Commodity,Air,Pharmaceuticals,Port Congestion,4.6,0,3,High
+266219.42,6,Commodity,Air,Semiconductors,None,3.97,1,0,High
+195982.6,7,Commodity,Air,Semiconductors,None,1.293,1,0,Low
+358474.75,7,Commodity,Air,Semiconductors,None,2.785,1,0,Medium
+65225.84,1,Commodity,Air,Semiconductors,Port Congestion,1.449,0,4,Low
+86771.97,2,Commodity,Air,Semiconductors,Port Congestion,2.619,0,2.5,Medium
+44558.94,14,Commodity,Sea,Auto Parts,None,3.875,1,0,High
+59553.15,18,Commodity,Sea,Auto Parts,None,1.403,1,0,Low
+60462.83,12,Commodity,Sea,Auto Parts,None,2.565,1,0,Medium
+8953,2,Commodity,Sea,Auto Parts,Port Congestion,2.821,0,3,Medium
+67906.13,18,Commodity,Sea,Consumer Electronics,None,3.892,1,0,High
+71534.4,17,Commodity,Sea,Consumer Electronics,None,1.507,1,0,Low
+34656.24,12,Commodity,Sea,Consumer Electronics,None,2.64,1,0,Medium
+43897.5,14,Commodity,Sea,Perishable Foods,None,3.75,1,0,High
+32354.81,9,Commodity,Sea,Perishable Foods,None,1.716,1,0,Low
+61363.22,14,Commodity,Sea,Perishable Foods,None,2.516,1,0,Medium
+5625.88,1,Commodity,Sea,Perishable Foods,Port Congestion,0.76,0,4,Low
+5782.68,2,Commodity,Sea,Perishable Foods,Port Congestion,2.764,0,3,Medium
+28160.48,4,Commodity,Sea,Pharmaceuticals,None,3.905,1,0,High
+15449.43,5,Commodity,Sea,Pharmaceuticals,None,1.614,1,0,Low
+20794.02,6,Commodity,Sea,Pharmaceuticals,None,2.655,1,0,Medium
+33731.13,10,Commodity,Sea,Raw Materials,None,3.738,1,0,High
+44884.57,16,Commodity,Sea,Raw Materials,None,1.47,1,0,Low
+54288.51,12,Commodity,Sea,Raw Materials,None,2.655,1,0,Medium
+3038.14,1,Commodity,Sea,Raw Materials,Port Congestion,3.392,0,2,High
+7851.1,1,Commodity,Sea,Raw Materials,Port Congestion,1.259,0,4,Low
+13254.13,3,Commodity,Sea,Raw Materials,Port Congestion,2.577,0,1.67,Medium
+21694.61,6,Commodity,Sea,Semiconductors,None,3.731,1,0,High
+20234.51,6,Commodity,Sea,Semiconductors,None,1.588,1,0,Low
+17415.88,5,Commodity,Sea,Semiconductors,None,2.529,1,0,Medium
+10869.06,1,Commodity,Sea,Semiconductors,Port Congestion,3.798,0,3,High
+68992.9,19,Commodity,Sea,Textiles,None,3.883,1,0,High
+23720.25,7,Commodity,Sea,Textiles,None,1.504,1,0,Low
+68883.87,23,Commodity,Sea,Textiles,None,2.636,1,0,Medium
+11454.85,2,Commodity,Sea,Textiles,Port Congestion,4.218,0.5,3,High
+3156.58,1,Commodity,Sea,Textiles,Port Congestion,1.71,0,1,Low
+6876.84,2,Commodity,Sea,Textiles,Port Congestion,2.588,0,3.5,Medium
+314715.45,5,Intra-Asia,Air,Pharmaceuticals,None,3.703,1,0,High
+446178.38,11,Intra-Asia,Air,Pharmaceuticals,None,1.49,1,0,Low
+556039.94,12,Intra-Asia,Air,Pharmaceuticals,None,2.619,0.9167,0.08,Medium
+235898.28,3,Intra-Asia,Air,Pharmaceuticals,Port Congestion,3.525,0,4.33,High
+25371.79,1,Intra-Asia,Air,Pharmaceuticals,Port Congestion,1.179,0,1,Low
+2275.31,1,Intra-Asia,Air,Pharmaceuticals,Severe Weather (Typhoon/Storm),1.295,0,4,Low
+107554.09,1,Intra-Asia,Air,Pharmaceuticals,Severe Weather (Typhoon/Storm),2.161,0,4,Medium
+268616.43,6,Intra-Asia,Air,Semiconductors,None,4.078,1,0,High
+335164.56,6,Intra-Asia,Air,Semiconductors,None,1.517,1,0,Low
+203168.9,6,Intra-Asia,Air,Semiconductors,None,2.308,1,0,Medium
+243285.14,2,Intra-Asia,Air,Semiconductors,Port Congestion,3.746,0,5,High
+82405.72,1,Intra-Asia,Air,Semiconductors,Port Congestion,0.932,1,0,Low
+81348.3,1,Intra-Asia,Air,Semiconductors,Severe Weather (Typhoon/Storm),1.994,0,6,Low
+17384.87,5,Intra-Asia,Sea,Auto Parts,None,3.72,1,0,High
+59250.31,17,Intra-Asia,Sea,Auto Parts,None,1.274,0.9412,0.06,Low
+39553.49,8,Intra-Asia,Sea,Auto Parts,None,2.593,0.875,0.13,Medium
+3077.36,1,Intra-Asia,Sea,Auto Parts,Port Congestion,3.952,1,0,High
+9820.29,2,Intra-Asia,Sea,Auto Parts,Port Congestion,1.732,0,2.5,Low
+5335.41,1,Intra-Asia,Sea,Auto Parts,Port Congestion,2.736,0,2,Medium
+9972.57,2,Intra-Asia,Sea,Auto Parts,Severe Weather (Typhoon/Storm),1.385,0,5.5,Low
+14421.05,3,Intra-Asia,Sea,Auto Parts,Severe Weather (Typhoon/Storm),2.675,0,8,Medium
+70616.06,18,Intra-Asia,Sea,Consumer Electronics,None,3.816,1,0,High
+41680.7,12,Intra-Asia,Sea,Consumer Electronics,None,1.295,1,0,Low
+58514.9,18,Intra-Asia,Sea,Consumer Electronics,None,2.526,1,0,Medium
+22304.95,5,Intra-Asia,Sea,Consumer Electronics,Port Congestion,4.06,0,4,High
+10624.52,2,Intra-Asia,Sea,Consumer Electronics,Port Congestion,1.608,0,2.5,Low
+501.91,1,Intra-Asia,Sea,Consumer Electronics,Port Congestion,2.25,0,2,Medium
+71205.47,20,Intra-Asia,Sea,Perishable Foods,None,3.917,1,0,High
+25995.5,7,Intra-Asia,Sea,Perishable Foods,None,1.599,0.8571,0.14,Low
+89198.68,26,Intra-Asia,Sea,Perishable Foods,None,2.628,0.9231,0.08,Medium
+2097.16,1,Intra-Asia,Sea,Perishable Foods,Port Congestion,1.998,1,0,Low
+6808.5,1,Intra-Asia,Sea,Perishable Foods,Severe Weather (Typhoon/Storm),4.421,0,6,High
+690.3,1,Intra-Asia,Sea,Perishable Foods,Severe Weather (Typhoon/Storm),2.237,0,7,Medium
+12280.68,5,Intra-Asia,Sea,Pharmaceuticals,None,4.051,1,0,High
+8616.7,4,Intra-Asia,Sea,Pharmaceuticals,None,1.18,1,0,Low
+17387.74,5,Intra-Asia,Sea,Pharmaceuticals,None,2.42,1,0,Medium
+55982.21,12,Intra-Asia,Sea,Raw Materials,None,3.761,1,0,High
+34409.37,10,Intra-Asia,Sea,Raw Materials,None,1.582,1,0,Low
+48891.05,11,Intra-Asia,Sea,Raw Materials,None,2.658,1,0,Medium
+3382.72,1,Intra-Asia,Sea,Raw Materials,Port Congestion,1.553,0,1,Low
+2991.47,1,Intra-Asia,Sea,Raw Materials,Severe Weather (Typhoon/Storm),1.871,0,5,Low
+1041.46,1,Intra-Asia,Sea,Raw Materials,Severe Weather (Typhoon/Storm),2.729,0,5,Medium
+36011.46,8,Intra-Asia,Sea,Semiconductors,None,3.819,0.875,0.13,High
+23198.32,5,Intra-Asia,Sea,Semiconductors,None,1.663,1,0,Low
+18970.02,5,Intra-Asia,Sea,Semiconductors,None,2.704,1,0,Medium
+4892.48,1,Intra-Asia,Sea,Semiconductors,Port Congestion,1.794,0,4,Low
+6918.7,1,Intra-Asia,Sea,Semiconductors,Port Congestion,2.834,1,0,Medium
+692.21,1,Intra-Asia,Sea,Semiconductors,Severe Weather (Typhoon/Storm),1.41,0,9,Low
+7033.1,1,Intra-Asia,Sea,Semiconductors,Severe Weather (Typhoon/Storm),2.072,0,6,Medium
+47773.91,14,Intra-Asia,Sea,Textiles,None,3.521,1,0,High
+36005.37,10,Intra-Asia,Sea,Textiles,None,1.651,1,0,Low
+34804.83,9,Intra-Asia,Sea,Textiles,None,2.832,1,0,Medium
+2559.25,1,Intra-Asia,Sea,Textiles,Port Congestion,3.966,0,1,High
+6476.09,2,Intra-Asia,Sea,Textiles,Port Congestion,1.538,0,4,Low
+7942,1,Intra-Asia,Sea,Textiles,Port Congestion,2.416,0,3,Medium
+7407.53,2,Intra-Asia,Sea,Textiles,Severe Weather (Typhoon/Storm),3.912,0,5,High
+1574.34,1,Intra-Asia,Sea,Textiles,Severe Weather (Typhoon/Storm),1.487,0,2,Low
+303813.67,10,Pacific,Air,Pharmaceuticals,None,3.797,1,0,High
+155704.66,4,Pacific,Air,Pharmaceuticals,None,1.443,1,0,Low
+185909.41,5,Pacific,Air,Pharmaceuticals,None,2.616,1,0,Medium
+695030.87,15,Pacific,Air,Semiconductors,None,3.887,1,0,High
+433040.96,11,Pacific,Air,Semiconductors,None,1.527,1,0,Low
+239303.89,6,Pacific,Air,Semiconductors,None,2.358,1,0,Medium
+72595.83,1,Pacific,Air,Semiconductors,Port Congestion,1.762,1,0,Low
+56926.39,1,Pacific,Air,Semiconductors,Port Congestion,2.359,0,3,Medium
+127940.47,2,Pacific,Air,Semiconductors,Severe Weather (Typhoon/Storm),3.829,0,5,High
+37852.25,11,Pacific,Sea,Auto Parts,None,3.943,1,0,High
+59127.24,17,Pacific,Sea,Auto Parts,None,1.579,1,0,Low
+58445.75,16,Pacific,Sea,Auto Parts,None,2.623,0.9375,0.06,Medium
+8333.25,1,Pacific,Sea,Auto Parts,Port Congestion,3.325,0,6,High
+2499.33,1,Pacific,Sea,Auto Parts,Port Congestion,1.323,0,2,Low
+5655.31,1,Pacific,Sea,Auto Parts,Severe Weather (Typhoon/Storm),4.521,0,5,High
+10209.12,2,Pacific,Sea,Auto Parts,Severe Weather (Typhoon/Storm),1.073,0,5.5,Low
+725.58,1,Pacific,Sea,Auto Parts,Severe Weather (Typhoon/Storm),3.043,0,8,Medium
+61455.89,15,Pacific,Sea,Consumer Electronics,None,4.025,1,0,High
+42091.62,10,Pacific,Sea,Consumer Electronics,None,1.442,1,0,Low
+40521.86,13,Pacific,Sea,Consumer Electronics,None,2.644,1,0,Medium
+8536.13,2,Pacific,Sea,Consumer Electronics,Port Congestion,3.81,0,1.5,High
+8076.91,1,Pacific,Sea,Consumer Electronics,Port Congestion,3.079,0,1,Medium
+8390.5,2,Pacific,Sea,Consumer Electronics,Severe Weather (Typhoon/Storm),1.424,0,4.5,Low
+51035.26,11,Pacific,Sea,Perishable Foods,None,4.033,0.9091,0.09,High
+54352.26,15,Pacific,Sea,Perishable Foods,None,1.38,1,0,Low
+45254.32,12,Pacific,Sea,Perishable Foods,None,2.76,1,0,Medium
+12608.34,3,Pacific,Sea,Perishable Foods,Port Congestion,3.65,0,3.33,High
+5332.4,2,Pacific,Sea,Perishable Foods,Port Congestion,1.889,0,3,Low
+1865.23,1,Pacific,Sea,Perishable Foods,Port Congestion,2.333,0,3,Medium
+5389.38,1,Pacific,Sea,Perishable Foods,Severe Weather (Typhoon/Storm),1.407,0,7,Low
+8073.58,1,Pacific,Sea,Perishable Foods,Severe Weather (Typhoon/Storm),3.002,0,8,Medium
+22461.6,6,Pacific,Sea,Pharmaceuticals,None,4.137,1,0,High
+30731.65,7,Pacific,Sea,Pharmaceuticals,None,1.563,1,0,Low
+17720.84,4,Pacific,Sea,Pharmaceuticals,None,2.427,1,0,Medium
+10066.25,1,Pacific,Sea,Pharmaceuticals,Severe Weather (Typhoon/Storm),3.945,0,8,High
+46675.06,12,Pacific,Sea,Raw Materials,None,4.091,0.9167,0.08,High
+36371.33,9,Pacific,Sea,Raw Materials,None,1.375,1,0,Low
+37366.66,13,Pacific,Sea,Raw Materials,None,2.695,1,0,Medium
+22565.05,4,Pacific,Sea,Raw Materials,Port Congestion,3.6,0.25,1.25,High
+12033.99,2,Pacific,Sea,Raw Materials,Port Congestion,2.643,0,3.5,Medium
+12667.41,2,Pacific,Sea,Raw Materials,Severe Weather (Typhoon/Storm),3.918,0,5,High
+4046.47,1,Pacific,Sea,Raw Materials,Severe Weather (Typhoon/Storm),2.868,0,6,Medium
+11956.56,5,Pacific,Sea,Semiconductors,None,3.766,1,0,High
+20609.68,4,Pacific,Sea,Semiconductors,None,1.345,1,0,Low
+13292.37,5,Pacific,Sea,Semiconductors,None,2.71,1,0,Medium
+7137.32,1,Pacific,Sea,Semiconductors,Port Congestion,3.528,0,3,High
+10065.71,1,Pacific,Sea,Semiconductors,Severe Weather (Typhoon/Storm),3.493,0,5,High
+20796,2,Pacific,Sea,Semiconductors,Severe Weather (Typhoon/Storm),2.782,0,4.5,Medium
+39235.41,11,Pacific,Sea,Textiles,None,4.003,1,0,High
+67402.93,21,Pacific,Sea,Textiles,None,1.51,1,0,Low
+45200.09,11,Pacific,Sea,Textiles,None,2.732,1,0,Medium
+11137.52,2,Pacific,Sea,Textiles,Port Congestion,3.942,0,3.5,High
+2711.3,2,Pacific,Sea,Textiles,Port Congestion,1.78,0.5,2.5,Low
+7043.34,1,Pacific,Sea,Textiles,Severe Weather (Typhoon/Storm),3.965,0,7,High
+1062,1,Pacific,Sea,Textiles,Severe Weather (Typhoon/Storm),2.401,0,6,Medium
+338326.41,5,Suez,Air,Pharmaceuticals,Geopolitical Conflict (Route Diversion),3.82,0,11,High
+310628.47,4,Suez,Air,Pharmaceuticals,Geopolitical Conflict (Route Diversion),1.498,0,12.25,Low
+356497.27,3,Suez,Air,Pharmaceuticals,Geopolitical Conflict (Route Diversion),2.663,0,10.33,Medium
+723391.36,18,Suez,Air,Pharmaceuticals,None,3.748,0.9444,0.06,High
+510356.94,14,Suez,Air,Pharmaceuticals,None,1.408,1,0,Low
+521508.47,13,Suez,Air,Pharmaceuticals,None,2.554,1,0,Medium
+483737.77,4,Suez,Air,Semiconductors,Geopolitical Conflict (Route Diversion),3.874,0,13.25,High
+429837.41,4,Suez,Air,Semiconductors,Geopolitical Conflict (Route Diversion),1.38,0,14.75,Low
+332994.83,3,Suez,Air,Semiconductors,Geopolitical Conflict (Route Diversion),2.491,0,10,Medium
+644780.57,18,Suez,Air,Semiconductors,None,3.763,1,0,High
+503224.6,13,Suez,Air,Semiconductors,None,1.48,1,0,Low
+616145.85,16,Suez,Air,Semiconductors,None,2.658,1,0,Medium
+26919.03,5,Suez,Sea,Auto Parts,Geopolitical Conflict (Route Diversion),3.641,0,13.4,High
+35076.24,5,Suez,Sea,Auto Parts,Geopolitical Conflict (Route Diversion),1.491,0,12,Low
+20745.23,4,Suez,Sea,Auto Parts,Geopolitical Conflict (Route Diversion),2.787,0,11.75,Medium
+79267.89,25,Suez,Sea,Auto Parts,None,3.779,1,0,High
+106831.51,33,Suez,Sea,Auto Parts,None,1.45,1,0,Low
+81220.99,31,Suez,Sea,Auto Parts,None,2.582,1,0,Medium
+26029.73,4,Suez,Sea,Consumer Electronics,Geopolitical Conflict (Route Diversion),3.766,0,14.25,High
+33567.06,5,Suez,Sea,Consumer Electronics,Geopolitical Conflict (Route Diversion),1.542,0,12.4,Low
+37192.98,7,Suez,Sea,Consumer Electronics,Geopolitical Conflict (Route Diversion),2.72,0,13.71,Medium
+142852.84,36,Suez,Sea,Consumer Electronics,None,3.849,0.9722,0.03,High
+120941.05,32,Suez,Sea,Consumer Electronics,None,1.448,1,0,Low
+72193.36,24,Suez,Sea,Consumer Electronics,None,2.658,0.9583,0.04,Medium
+33932.82,6,Suez,Sea,Perishable Foods,Geopolitical Conflict (Route Diversion),3.764,0,14.67,High
+37927.92,5,Suez,Sea,Perishable Foods,Geopolitical Conflict (Route Diversion),1.508,0,11.4,Low
+48271.99,5,Suez,Sea,Perishable Foods,Geopolitical Conflict (Route Diversion),2.606,0,15.8,Medium
+123747.55,26,Suez,Sea,Perishable Foods,None,3.786,1,0,High
+122681.75,31,Suez,Sea,Perishable Foods,None,1.446,1,0,Low
+85408.19,25,Suez,Sea,Perishable Foods,None,2.688,1,0,Medium
+42032.66,4,Suez,Sea,Pharmaceuticals,Geopolitical Conflict (Route Diversion),3.724,0,13,High
+20226.02,2,Suez,Sea,Pharmaceuticals,Geopolitical Conflict (Route Diversion),1.605,0,17,Low
+61811.1,15,Suez,Sea,Pharmaceuticals,None,3.872,1,0,High
+39789.38,11,Suez,Sea,Pharmaceuticals,None,1.517,1,0,Low
+48684.19,12,Suez,Sea,Pharmaceuticals,None,2.675,1,0,Medium
+14460.75,3,Suez,Sea,Raw Materials,Geopolitical Conflict (Route Diversion),3.844,0,13.67,High
+24461.69,5,Suez,Sea,Raw Materials,Geopolitical Conflict (Route Diversion),1.332,0,13.2,Low
+52683,7,Suez,Sea,Raw Materials,Geopolitical Conflict (Route Diversion),2.317,0,13.29,Medium
+109083.53,24,Suez,Sea,Raw Materials,None,3.885,1,0,High
+127178.52,33,Suez,Sea,Raw Materials,None,1.466,1,0,Low
+137447.4,37,Suez,Sea,Raw Materials,None,2.67,1,0,Medium
+10740.44,2,Suez,Sea,Semiconductors,Geopolitical Conflict (Route Diversion),3.777,0,13.5,High
+25934.48,3,Suez,Sea,Semiconductors,Geopolitical Conflict (Route Diversion),1.574,0,9.67,Low
+35333.54,3,Suez,Sea,Semiconductors,Geopolitical Conflict (Route Diversion),2.682,0,12.33,Medium
+38415.74,11,Suez,Sea,Semiconductors,None,3.81,0.9091,0.09,High
+49722.99,13,Suez,Sea,Semiconductors,None,1.681,1,0,Low
+21814.12,7,Suez,Sea,Semiconductors,None,2.651,1,0,Medium
+19725.98,5,Suez,Sea,Textiles,Geopolitical Conflict (Route Diversion),3.967,0,14.4,High
+20234.48,2,Suez,Sea,Textiles,Geopolitical Conflict (Route Diversion),1.583,0,15,Low
+82514.53,9,Suez,Sea,Textiles,Geopolitical Conflict (Route Diversion),2.488,0,12.89,Medium
+93219.49,27,Suez,Sea,Textiles,None,3.824,1,0,High
+96821.66,30,Suez,Sea,Textiles,None,1.531,1,0,Low
+105378.16,30,Suez,Sea,Textiles,None,2.639,0.9333,0.07,Medium
