@@ -1,8 +1,23 @@
 # Data Dictionary
 
-## Dataset Overview
-Internal operational dataset capturing supply chain disruption events,
-their impact, and associated risk or resilience indicators.
+| Column | Description |
+|---|---|
+| transportation_mode | Transport method (Air, Sea) |
+| route_type | Operational route category |
+| origin_city | Origin location |
+| destination_city | Destination location |
+| product_category | Product category |
+| disruption_event | Operational disruption cause |
+| risk_band | Risk classification |
+| total_orders | Total operational records |
+| on_time_rate | On-time delivery rate |
+| avg_delay_days | Average delay duration |
+| avg_risk_score | Average operational risk |
+| total_shipping_cost | Total shipping cost |
+| clean_records | Records passing quality checks |
+| data_health_score | Overall data quality score |
 
-The dataset is used to support performance monitoring, risk analysis,
-and executive decision-making.
+## Notes
+
+- Dashboard built using SQL, Power BI, and DAX.
+- Data quality checks validate dataset completeness and reliability.
